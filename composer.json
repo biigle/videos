@@ -27,5 +27,6 @@
         "psr-4": {
             "Biigle\\Modules\\Videos\\": "src"
         }
-    }
+    },
+    "abandoned": true
 }
